@@ -2,7 +2,7 @@ DoReMi Subscription - [GeekTrust] - LLD
 
 Machine Coding Problem Statement: https://www.geektrust.com/coding/detailed/doremi-subscription .
 
-This problem was solved on October 5, 2022.
+This problem was solved on May 31, 2023.
 
 The low-level design code reads data input from a file. After reading the input commands, processes them & prints output on the command line interface.
 
